@@ -1,0 +1,1 @@
+print("My favorite book is 'Hemlet' because it's classis. ")
